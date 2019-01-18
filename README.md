@@ -2,13 +2,13 @@
 
 ## 文件列表
 
-+ 0get_result.py: 核心文件
++ codacy.py: 核心文件
 + demo.docx: 模板文件
-+ 使用说明.md：rt
++ README.md：rt
 
 ## 文件具体说明
 
-### 0get_result.py
+### codacy.py
 
 #### url
 raw_url = raw_url_p1+str(step)+raw_url_p3
